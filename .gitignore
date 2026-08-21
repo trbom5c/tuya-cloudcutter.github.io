@@ -191,3 +191,4 @@ fabric.properties
 
 *.bin
 site/
+node_modules/
